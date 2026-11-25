@@ -1,0 +1,7 @@
+ErrorDocument 404 https://moeller-innenausbau.de
+
+RewriteEngine on
+Redirect 301 /wiki/tuermasse https://moeller-innenausbau.de/tuermasse
+Redirect 301 /wiki/dachausbau-merkzettel https://moeller-innenausbau.de/dachausbau-merkzettel
+Redirect 301 /wiki/trennwand https://moeller-innenausbau.de/trennwand
+
